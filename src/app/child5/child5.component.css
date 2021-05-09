@@ -1,0 +1,22 @@
+#p1
+{
+    font-weight:600;
+}
+.card
+{
+    border:none;
+
+}
+.c1
+{
+    display: flex;
+    flex-direction: row;
+}
+#p2
+{
+    color: green;
+}
+img
+{
+    height: 100%;
+}
